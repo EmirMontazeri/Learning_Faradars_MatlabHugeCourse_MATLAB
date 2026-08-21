@@ -1,7 +1,7 @@
 # Learning_Faradars_MatlabHugeCourse_MATLAB
-My personal interpretation and training codes of Faradars "[MATLAB Programming][1]" and "[MATLAB Programming Training for Science & Engineering][2]", previously part of MATLAB '[Ganjineh][3]' Specialization by Prof. Mostapha Kalami Heris.
+My personal interpretation and training codes of Faradars "[MATLAB Programming Fundementals][1]" and "[MATLAB Programming Training for Science & Engineering][2]", previously part of MATLAB '[Ganjineh][3]' Specialization by Prof. Mostapha Kalami Heris.
 
-#### "[MATLAB Programming][4]"
+#### "[MATLAB Programming Fundementals][4]"
 * S1: Getting Started with MATLAB
 * S2: Different Types of Data
 * S3: Structures of Program Control
@@ -12,7 +12,7 @@ My personal interpretation and training codes of Faradars "[MATLAB Programming][
 * S8: Files & Data Management (2/2)
   
 ## Acknowledgment
-> This repository contains my personal modified implementations of concepts and algorithms taught in the courses and is not affiliated with **Faradars**. It does not contain any copyrighted course materials or solutions provided by them. In guidance of policy and licensing, exam sample codes aren't provided either.
+> This repository contains my personal, modified implementations of concepts and algorithms taught in the courses and is not affiliated with **Faradars**. It does not contain any copyrighted course materials or solutions provided by them. In guidance of policy and licensing, exam sample codes aren't provided either.
 
 
 
