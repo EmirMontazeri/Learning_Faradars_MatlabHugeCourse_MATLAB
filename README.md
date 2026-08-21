@@ -10,7 +10,7 @@ My personal interpretation and training codes of Faradars "[MATLAB Programming][
 * S6: Graphics & Plotting (2/2)
 * S7: Files & Data Management (1/2)
 * S8: Files & Data Management (2/2)
-* 
+  
 ## Acknowledgment
 > This repository contains my personal modified implementations of concepts and algorithms taught in the courses and is not affiliated with **Faradars**. It does not contain any copyrighted course materials or solutions provided by them. In guidance of policy and licensing, exam sample codes aren't provided either.
 
