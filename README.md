@@ -1,5 +1,5 @@
 # Learning_Faradars_MatlabHugeCourse_MATLAB
-My personal interpretation and training codes of Faradars "[MATLAB Programming Fundementals][1]" and "[MATLAB Programming Training for Science & Engineering][2]", previously part of MATLAB '[Ganjineh][3]' Specialization by Prof. Mostapha Kalami Heris.
+My personal interpretation and training codes of Faradars "[MATLAB Programming Fundementals][1]" and "[MATLAB Programming for Science & Engineering][2]", previously part of MATLAB '[Ganjineh][3]' Specialization by Prof. Mostapha Kalami Heris.
 
 #### "[MATLAB Programming Fundementals][4]"
 * S1: Getting Started with MATLAB
