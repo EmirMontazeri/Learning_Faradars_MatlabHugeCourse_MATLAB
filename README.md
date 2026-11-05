@@ -1,5 +1,5 @@
 # Learning_Faradars_MatlabHugeCourse_MATLAB
-My personal interpretation and training codes of Faradars "[MATLAB Programming Fundementals][1]" and "[MATLAB Programming for Science & Engineering][2]", previously part of MATLAB '[Ganjineh][3]' Specialization by Prof. Mostapha Kalami Heris.
+My personal interpretation and training codes of Faradars "[MATLAB Programming Fundementals][1]" and "[MATLAB Programming for Science & Engineering][2]" courses, previously part of MATLAB '[Ganjineh][3]' Specialization by [Prof. Mostapha Kalami Heris](https://github.com/smkalami).
 
 #### "[MATLAB Programming Fundementals][4]"
 * S1: Getting Started with MATLAB
@@ -12,7 +12,17 @@ My personal interpretation and training codes of Faradars "[MATLAB Programming F
 * S8: Files & Data Management (2/2)
   
 #### "[MATLAB Programming For Science & Engineering][5]"
-
+* S1: Algebraic Equations & Finding Roots
+* S2: Random Numbers, Computations, & Statistical Analysis (1/2)
+* S3: Random Numbers, Computations, & Statistical Analysis (2/2)
+* S4: Integration & Differentiation
+* S5: Symbolic Computation
+* S6: Linear Algebra
+* S7: Interpolation, Function Approximation, Curve & Surface Fitting
+* S8: Classical Optimization
+* S9: Solving Differential Equations & Boundary Value Problems (1/3)
+* S10: Solving Differential Equations & Boundary Value Problems (2/3)
+* S11: Solving Differential Equations & Boundary Value Problems (3/3)
 
 ## Acknowledgment
 > This repository contains my personal, modified implementations of concepts and algorithms taught in the courses and is not affiliated with **Faradars**. It does not contain any copyrighted course materials or solutions provided by them. In guidance of policy and licensing, exam sample codes aren't provided either.
